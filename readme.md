@@ -2,5 +2,5 @@
 
 This project shows the code created in Python to show the daily accumulation of precipitation, or images of specific times of wind speed and direction, temperature (in two different visuals), relative humidity, and atmospheric pressure.
 
-![](wind_power_6.png)
+![](Images/wind_power_6.png)
 #
